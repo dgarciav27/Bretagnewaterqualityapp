@@ -15,6 +15,8 @@ Project also available at https://www.figma.com/design/Yervo5BJvOf3ZSxzgebRt8/Sa
 - Data-driven UI concept for environmental health awareness
 - User-friendly design for quick interpretation of water safety
 
+  
+
 ## Running the code
 
 Run `npm i` to install the dependencies.
