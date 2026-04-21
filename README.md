@@ -1,11 +1,11 @@
 
-  # Sans titre
+  # Water Quality Visualization App – Bretagne (Prototype)
 
-This project is a prototype design of an application that allows users to visualize and assess water quality, focusing on both drinking water and bathing water quality.
+This project is a prototype design of an application that visualizes water quality in the Brittany (Bretagne) region, France.
 
-The application is intended to provide a simple and intuitive way to explore water quality indicators and understand whether the water is of good or poor quality, based on available measurements and classification rules.
+It is designed to help users easily understand and assess the quality of drinking water and bathing water, based on available indicators and classification results (good / poor quality).
 
-This work is currently a UI/UX design prototype, focusing on the conceptual structure and visualization design rather than a fully deployed system.
+The focus of this project is on UI/UX design and data visualization concepts, providing an intuitive way to explore water quality information. It is not a deployed system, but a design prototype for a potential environmental monitoring application.
 
 Project also available at https://www.figma.com/design/Yervo5BJvOf3ZSxzgebRt8/Sans-titre.
 
