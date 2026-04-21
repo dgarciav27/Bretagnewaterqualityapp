@@ -15,7 +15,13 @@ Project also available at https://www.figma.com/design/Yervo5BJvOf3ZSxzgebRt8/Sa
 - Data-driven UI concept for environmental health awareness
 - User-friendly design for quick interpretation of water safety
 
-  
+<p align="center">
+  <img src="main_page.png" width="300"/>
+</p>
+
+<p align="center">
+  Main page of the Water Quality Visualization App prototype for Bretagne region.
+</p>
 
 ## Running the code
 
